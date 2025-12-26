@@ -1,2 +1,2 @@
-#Simple Landing Page
+Simple Landing Page
 created using the odin project
